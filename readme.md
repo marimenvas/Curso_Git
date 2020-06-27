@@ -17,7 +17,6 @@ Instalamos o Git e vimos alguns comandos
 
 O que foi que eu aprendi aqui?
 
-
 ## Aula 4
 
 O que foi que eu aprendi aqui?
@@ -25,7 +24,6 @@ O que foi que eu aprendi aqui?
 ## Aula 5
 
 O que foi que eu aprendi aqui?
-Ententer, usar e juntar branchs
 
 ## Aula 6
 
