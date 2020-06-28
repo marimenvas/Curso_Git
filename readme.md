@@ -25,7 +25,8 @@ O que foi que eu aprendi aqui?
 ## Aula 5
 
 O que foi que eu aprendi aqui?
-Ententer, usar e juntar branchs
+
+Ententer,usar e juntar branchs
 
 ## Aula 6
 
